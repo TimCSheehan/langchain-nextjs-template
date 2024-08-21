@@ -2,14 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Custom styles */
 body {
-  color: #f8f8f8;
-  background: #131318;
+  color: #000000;
+  background: #ffffff;
 }
 
+/* text color */
 body input,
 body textarea {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 a {
