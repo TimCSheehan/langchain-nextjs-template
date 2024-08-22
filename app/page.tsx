@@ -1,4 +1,5 @@
 import { ChatWindow } from "@/components/ChatWindow";
+// import { ChatWindowRiddle } from "@/components/ChatWindowRiddle";
 
 export default function Home() {
   const InfoCard = (
